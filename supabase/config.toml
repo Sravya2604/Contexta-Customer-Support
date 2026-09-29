@@ -1,0 +1,4 @@
+project_id = "contexta"
+
+[functions.contexta-agent]
+verify_jwt = false
